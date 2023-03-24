@@ -39,6 +39,7 @@ function App() {
       </div>
 
       <iframe
+        title="downloader"
         id="widgetv2Api"
         src={`https://convert2mp3s.com/api/widgetv2?url=${currentLink}`}
         width="100%"
