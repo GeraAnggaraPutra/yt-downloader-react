@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/yt-downloader-react/static/css/main.6dda71d5.css",
+    "main.js": "/yt-downloader-react/static/js/main.90c4c70d.js",
+    "static/js/787.2b4d2f43.chunk.js": "/yt-downloader-react/static/js/787.2b4d2f43.chunk.js",
+    "index.html": "/yt-downloader-react/index.html",
+    "main.6dda71d5.css.map": "/yt-downloader-react/static/css/main.6dda71d5.css.map",
+    "main.90c4c70d.js.map": "/yt-downloader-react/static/js/main.90c4c70d.js.map",
+    "787.2b4d2f43.chunk.js.map": "/yt-downloader-react/static/js/787.2b4d2f43.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6dda71d5.css",
+    "static/js/main.90c4c70d.js"
+  ]
+}
